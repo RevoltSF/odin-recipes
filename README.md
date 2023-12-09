@@ -1,2 +1,2 @@
 # odin-recipes
-Created a simple recipe website for TOP.
+Created a recipe website that includes Ham and Cheese sliders, Lasagna, and pho 
